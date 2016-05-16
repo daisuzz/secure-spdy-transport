@@ -1,6 +1,6 @@
 {
   "name": "secure-spdy-transport",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SPDY v2, v3, v3.1 and HTTP2 transport",
   "license": "MIT",
   "keywords": [
